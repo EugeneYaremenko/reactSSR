@@ -1,1 +1,2 @@
-# reactSSR
+#React SSR basic example
+
